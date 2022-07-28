@@ -1,6 +1,6 @@
-<?php
+<<<<<<< HEAD <?php
 
-$text = <<<EOM
+                $text = <<<EOM
 
 github練習用
 
@@ -24,4 +24,4 @@ git reset
 
 EOM;
 
-echo $text;
+                echo $text;
