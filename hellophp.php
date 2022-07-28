@@ -25,3 +25,4 @@ git reset
 EOM;
 
 echo $text;
+
