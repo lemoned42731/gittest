@@ -19,11 +19,10 @@ git reflog
 //リモートリポジトリへ反映
 git push
 
-//ステージング取り消し(前回のコミット位置まで戻る)
-git reset -q HEAD
--qは出力しない
-git reset
-上記と同様(デフォルトでHEADつき)
+//リモートリポジトリから
+git pull
+
+
 
 EOM;
 
