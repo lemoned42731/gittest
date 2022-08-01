@@ -18,3 +18,4 @@ reset --hard HEAD^：修正前のファイルの状態に戻す。(使う？)
 //0801test
 //fix
 //1326 change
+//last change
